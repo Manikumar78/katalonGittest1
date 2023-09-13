@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add new Tsheet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7419c7e8-ffab-4415-91cf-cc9f8d7b8551</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bde41620-555c-4126-a833-e69f83cb9995</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\sq\\Desktop\\Timesheet Template Sq.pdf'</defaultValue>
+      <description></description>
+      <id>bde41620-555c-4126-a833-e69f83cb9995</id>
+      <masked>false</masked>
+      <name>span</name>
+   </variable>
+</TestCaseEntity>

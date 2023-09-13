@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADD new employee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d6ee4a4-e21b-45d6-a81c-9557148891ec</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e0168c7-00cd-4d21-9af6-5a1c492c3d9b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\sq\\Desktop\\Timesheet Template SQ.pdf'</defaultValue>
+      <description></description>
+      <id>8e0168c7-00cd-4d21-9af6-5a1c492c3d9b</id>
+      <masked>false</masked>
+      <name>span</name>
+   </variable>
+</TestCaseEntity>
