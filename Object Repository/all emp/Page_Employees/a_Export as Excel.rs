@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Export as Excel</name>
+   <tag></tag>
+   <elementGuidId>d9e48dfe-243a-417b-a081-9dc399f84c93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ant-btn.css-e8tju.ant-btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/section/div[2]/main/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5b95fc80-1e8a-4274-91bd-41798adb174a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://test-sqmsapi.skill-quotient.com/invoice/employee/export/OTY=/-480?page=1&amp;limit=10&amp;sortBy=createdAt:DESC</value>
+      <webElementGuid>ed97416b-4f12-40b7-99c5-b4f46e1f6e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-e8tju ant-btn-primary</value>
+      <webElementGuid>ee13abd7-e2d2-4b70-9a97-c882419cde07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export as Excel</value>
+      <webElementGuid>531bd31f-6164-4287-8ba0-3295e1c1d5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-pro css-oxypi3&quot;]/div[@class=&quot;css-oxypi3 ant-design-pro ant-pro-layout screen-lg ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider css-e8tju&quot;]/div[@class=&quot;ant-pro-layout-container css-oxypi3&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-oxypi3 ant-pro-layout-has-header ant-pro-layout-content-has-page-container&quot;]/div[@class=&quot;ant-pro-page-container css-oxypi3&quot;]/div[@class=&quot;ant-pro-grid-content css-oxypi3&quot;]/div[@class=&quot;ant-pro-grid-content-children css-oxypi3&quot;]/div[@class=&quot;ant-pro-page-container-children-content css-oxypi3&quot;]/div[@class=&quot;ant-pro-table css-oxypi3&quot;]/div[@class=&quot;ant-pro-card css-oxypi3&quot;]/div[@class=&quot;ant-pro-card-body css-oxypi3&quot;]/div[@class=&quot;ant-pro-table-list-toolbar css-oxypi3&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-container css-oxypi3&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-right css-oxypi3&quot;]/div[1]/a[@class=&quot;ant-btn css-e8tju ant-btn-primary&quot;]</value>
+      <webElementGuid>70533eb3-82cd-452c-b314-9d36dc204d9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/div[2]/main/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/a</value>
+      <webElementGuid>fee0e95f-f9c5-4f47-af40-e3f789e96aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand'])[1]/following::a[1]</value>
+      <webElementGuid>f1b718de-9e52-4d90-b697-6fccc6bfaa01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[2]</value>
+      <webElementGuid>4f18e21c-52ef-4883-a44d-09c3fdd5f436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Id'])[1]/preceding::a[1]</value>
+      <webElementGuid>42e945ee-6b7b-477d-a4e4-39457397eb00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://test-sqmsapi.skill-quotient.com/invoice/employee/export/OTY=/-480?page=1&amp;limit=10&amp;sortBy=createdAt:DESC')]</value>
+      <webElementGuid>8f4070a6-2665-4e9d-aaa9-3b79aef4b6ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>54e47232-fc8f-4d82-af09-4769c3d0db92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://test-sqmsapi.skill-quotient.com/invoice/employee/export/OTY=/-480?page=1&amp;limit=10&amp;sortBy=createdAt:DESC' and (text() = 'Export as Excel' or . = 'Export as Excel')]</value>
+      <webElementGuid>a49cf012-1ba2-4dac-a2a7-d694e44a6c0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
