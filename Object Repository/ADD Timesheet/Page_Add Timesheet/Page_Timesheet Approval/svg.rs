@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>dfb4b945-42b5-4ebf-b343-9469e9bc101d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.anticon.anticon-eye > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Initiated'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>62bb447a-294d-4eb4-9f9d-b583df1b9b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>db61c972-a1c5-49b6-81ff-8f8faaa14800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5b3c2a4b-0182-4c36-b313-faf060b3193a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>eye</value>
+      <webElementGuid>9d507460-dba6-4b4a-bc00-55ca1eea4993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>df974094-b91b-4dd6-ba19-752788181892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>74bdcb15-7af1-4990-83df-c1224de0fa1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>349d8bb9-fb21-419b-aa00-774afdc8c218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>adad7724-a542-4f5d-985f-1a7ff4b6a039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-pro css-3w3zlw&quot;]/div[@class=&quot;css-3w3zlw ant-design-pro ant-pro-layout screen-xl ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider css-e8tju&quot;]/div[@class=&quot;ant-pro-layout-container css-3w3zlw&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-3w3zlw ant-pro-layout-has-header ant-pro-layout-content-has-page-container&quot;]/div[@class=&quot;ant-pro-page-container css-3w3zlw&quot;]/div[@class=&quot;ant-pro-grid-content css-3w3zlw&quot;]/div[@class=&quot;ant-pro-grid-content-children css-3w3zlw&quot;]/div[@class=&quot;ant-pro-page-container-children-content css-3w3zlw&quot;]/div[@class=&quot;ant-pro-table css-3w3zlw&quot;]/div[@class=&quot;ant-pro-card css-3w3zlw&quot;]/div[@class=&quot;ant-pro-card-body css-3w3zlw&quot;]/div[@class=&quot;ant-table-wrapper css-e8tju&quot;]/div[@class=&quot;ant-spin-nested-loading css-e8tju&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-middle ant-table-scroll-horizontal&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/div[1]/button[@class=&quot;ant-btn css-e8tju ant-btn-link ant-btn-icon-only ant-tooltip-open&quot;]/span[@class=&quot;anticon anticon-eye&quot;]/svg[1]</value>
+      <webElementGuid>dc92a6b5-d0ef-4a22-8007-fd62c3262d4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initiated'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>342a0a18-b4d6-44fa-82ef-142da940ba5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submitted'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>a092ba8e-1ae5-4b80-afb6-66f82335bbd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQT20230802599'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>d1e7a58e-9f8a-4512-8d59-593b24966b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQR2023030217'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>a5fccd9f-daed-4476-affa-337f0751d251</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

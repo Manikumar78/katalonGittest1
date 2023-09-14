@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_India</name>
+   <tag></tag>
+   <elementGuidId>4bc1d2f3-8a05-49a1-8d7c-35900ae94a29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='India'])[2]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>09e8ebdc-05bd-4ade-b0b8-42a5f2cca41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-pro-select-item-option-content-light</value>
+      <webElementGuid>78d0a2fc-406f-4beb-95db-78946f9c68ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>India</value>
+      <webElementGuid>a63ea7f0-5f8d-4b51-84e2-36170af72515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[8]/div[1]/div[@class=&quot;ant-select-dropdown css-e8tju ant-select-dropdown-placement-bottomLeft&quot;]/div[1]/div[@class=&quot;rc-virtual-list&quot;]/div[@class=&quot;rc-virtual-list-holder&quot;]/div[1]/div[@class=&quot;rc-virtual-list-holder-inner&quot;]/div[@class=&quot;ant-select-item ant-select-item-option ant-pro-filed-search-select-option  ant-select-item-option-active&quot;]/div[@class=&quot;ant-select-item-option-content&quot;]/div[@class=&quot;ant-pro-select-item-option-content&quot;]/span[@class=&quot;ant-pro-select-item-option-content-light&quot;]</value>
+      <webElementGuid>c5845d69-2498-4a8f-8eb4-6050ac2efddc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='India'])[2]/following::span[2]</value>
+      <webElementGuid>bf8c55ff-a2aa-4581-9b0f-a701d30ddb6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div[2]/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>6c0bd3a9-ec32-4357-9894-73c62e069f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'India' or . = 'India')]</value>
+      <webElementGuid>18e5f7a0-c70b-4f46-88cf-e62b283178a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

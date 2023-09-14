@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Asset Description - Copy</name>
+   <tag></tag>
+   <elementGuidId>c304b74f-a9e7-417f-a993-e22005eddac6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='basic']/div/div/div[4]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>07bbd9b7-d686-43d4-88d2-f87ac205fee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>basic_assetDescription</value>
+      <webElementGuid>e0d11a9b-28b9-4e39-93a5-cfede2bdd3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-form-item-required</value>
+      <webElementGuid>3e372b0d-2d91-4fe6-b34b-84a4c7d98565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Asset Description</value>
+      <webElementGuid>ed42416b-0079-44cc-9214-b6b1f7d58b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asset Description</value>
+      <webElementGuid>cd7ef722-bc95-4002-807b-50923bfd7c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic&quot;)/div[@class=&quot;ant-row css-e8tju&quot;]/div[@class=&quot;ant-col ant-col-sm-24 ant-col-md-24 ant-col-lg-12 css-e8tju&quot;]/div[@class=&quot;ant-form-item css-e8tju&quot;]/div[@class=&quot;ant-row ant-form-item-row css-e8tju&quot;]/div[@class=&quot;ant-col ant-form-item-label css-e8tju&quot;]/label[@class=&quot;ant-form-item-required&quot;]</value>
+      <webElementGuid>9b6ac466-d0bd-4baf-b16d-04e11f498eea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basic']/div/div/div[4]/div/div/label</value>
+      <webElementGuid>cdd0103b-0573-46bb-ba06-d2e3190e8e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop'])[1]/following::label[1]</value>
+      <webElementGuid>9eaac1af-795e-45df-9651-f8c91a699445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Type'])[1]/following::label[1]</value>
+      <webElementGuid>8b7c1230-0365-4a9c-a3f3-d9fa6683172c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Date'])[1]/preceding::label[1]</value>
+      <webElementGuid>c489b27c-d4b4-482d-988a-e9917631210f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Value'])[1]/preceding::label[2]</value>
+      <webElementGuid>71ea3929-8ef3-4bc9-9af2-a0292c32a7d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Asset Description']/parent::*</value>
+      <webElementGuid>15f29116-6644-4c86-b496-def4dca35b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/label</value>
+      <webElementGuid>dd5e7cb1-5c2c-441d-a9ca-318f22838897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = 'Asset Description' and (text() = 'Asset Description' or . = 'Asset Description')]</value>
+      <webElementGuid>f0d9d6ff-2d1f-4a75-9b62-d634c711b11e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

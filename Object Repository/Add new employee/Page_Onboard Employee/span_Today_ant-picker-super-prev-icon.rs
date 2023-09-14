@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Today_ant-picker-super-prev-icon</name>
+   <tag></tag>
+   <elementGuidId>066964a8-562c-43ec-8ce5-bd1ae77cb7a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-picker-year-panel > div.ant-picker-header > button.ant-picker-header-super-prev-btn > span.ant-picker-super-prev-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class='ant-picker-header-super-prev-btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>de37a9df-7f62-4880-b0ce-b77185264311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-picker-super-prev-icon</value>
+      <webElementGuid>6d8d37bf-0314-43d1-a5ed-62f46fb365fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[7]/div[1]/div[@class=&quot;ant-picker-dropdown css-e8tju ant-picker-dropdown-placement-bottomLeft&quot;]/div[@class=&quot;ant-picker-panel-container&quot;]/div[@class=&quot;ant-picker-panel-layout&quot;]/div[@class=&quot;ant-picker-panel&quot;]/div[@class=&quot;ant-picker-year-panel&quot;]/div[@class=&quot;ant-picker-header&quot;]/button[@class=&quot;ant-picker-header-super-prev-btn&quot;]/span[@class=&quot;ant-picker-super-prev-icon&quot;]</value>
+      <webElementGuid>ef47f28e-47c4-4f86-a604-5f28afa4dfff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/div/div/div/button/span</value>
+      <webElementGuid>02fc599a-3758-489f-8996-c5d7ee21cdd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
