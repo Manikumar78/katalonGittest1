@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login</name>
+   <tag></tag>
+   <elementGuidId>3dec4930-9570-496e-aba0-d5ba8dcb462f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-1n7nwfa.ant-btn-primary.ant-btn-lg > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/form/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a61e1478-c27c-4cb6-b718-73c8adf5da82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>58697946-07b0-4db7-bc08-c66026589da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-trkbkn&quot;]/div[2]/div[@class=&quot;ant-pro-form-login-container&quot;]/div[@class=&quot;ant-pro-form-login-main&quot;]/div[@class=&quot;ant-pro css-ekgoj2&quot;]/form[@class=&quot;ant-form ant-form-vertical css-1n7nwfa ant-pro-form&quot;]/button[@class=&quot;ant-btn css-1n7nwfa ant-btn-primary ant-btn-lg&quot;]/span[1]</value>
+      <webElementGuid>9dd48296-6112-4b3e-828f-239ba5a846b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/form/button/span</value>
+      <webElementGuid>12ede4da-199a-4527-9b03-3b2b570626ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password ?'])[1]/following::span[1]</value>
+      <webElementGuid>53371e74-de6a-46ab-a2b7-519335b8a262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Login'])[1]/following::span[13]</value>
+      <webElementGuid>52531c0f-4678-49a6-a9fd-2ef93bb7bcb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>0c0b3c9c-42db-423b-b427-dcc919c3ff0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/span</value>
+      <webElementGuid>377d6c9f-527f-49d1-95d1-e9e339034966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>94975e25-73a4-4151-99ac-6a65e49c33e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
